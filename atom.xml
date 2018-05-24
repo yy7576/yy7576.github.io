@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="http://github.com/yy7576/yy7576.github.io/"/>
-  <updated>2018-05-24T08:19:25.472Z</updated>
+  <updated>2018-05-24T08:25:37.971Z</updated>
   <id>http://github.com/yy7576/yy7576.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>qemu</title>
+    <link href="http://github.com/yy7576/yy7576.github.io/2018/05/24/qemu/"/>
+    <id>http://github.com/yy7576/yy7576.github.io/2018/05/24/qemu/</id>
+    <published>2018-05-24T08:25:37.000Z</published>
+    <updated>2018-05-24T08:25:37.971Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>qemu-zc706</title>
